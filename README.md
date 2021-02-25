@@ -1,5 +1,13 @@
 # Interview-Revision
 
+Steps:
+
+ 1. Create a branch e.g. devashish_2021_02_25
+ 2. After each day, commit to your branch and submit a pr
+ 3. To edit the main branch (master), create a branch devashish_main_edit_2021_02_25 and commit to that branch and submit the pr.
+
+
+
 https://docs.google.com/spreadsheets/d/1lnYXiRa-6bDZJBjZibA8IoDYMjpwtVaa6XHWeaHO6BE/edit#gid=1386834576
 
 | Date   | Task                           | ✓     | Question                                       | Link                                                                          | Difficulty |
