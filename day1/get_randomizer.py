@@ -36,6 +36,7 @@ class RandomizedSet:
         self.index_pointer = 0
 
     def insert(self, val):
+        # O(1)
         if val in self.value_map:
             return False
         self.random_list.append(val)
@@ -44,6 +45,7 @@ class RandomizedSet:
         return True
 
     def remove(self, val):
+        # O(1)
         if val not in  self.value_map:
             return False
         value_index = self.value_map[val]
@@ -55,7 +57,7 @@ class RandomizedSet:
         return True
 
     def get_random(self):
-        # print(self.random_list)
+        # O(1)
         return random.choice(self.random_list)
 
 
