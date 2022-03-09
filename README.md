@@ -8,8 +8,6 @@ Steps:
 
 
 
-https://docs.google.com/spreadsheets/d/1lnYXiRa-6bDZJBjZibA8IoDYMjpwtVaa6XHWeaHO6BE/edit#gid=1386834576
-
 | Date   | Task                           | ✓     | Question                                       | Link                                                                          | Difficulty |
 |--------|--------------------------------|-------|------------------------------------------------|-------------------------------------------------------------------------------|------------|
 | Day 1  | 1. Intro                       | FALSE | Theory about Data Structures                   |                                                                               |            |
@@ -97,3 +95,6 @@ https://docs.google.com/spreadsheets/d/1lnYXiRa-6bDZJBjZibA8IoDYMjpwtVaa6XHWeaHO
 |        | 2. Revise Theory               | FALSE |                                                |                                                                               |            |
 |        | 3. Revise Resume               | FALSE |                                                |                                                                               |            |
 |        | 4. Job Description and Profile | FALSE |                                                |                                                                               |            |
+
+
+https://docs.google.com/spreadsheets/d/1lnYXiRa-6bDZJBjZibA8IoDYMjpwtVaa6XHWeaHO6BE/edit#gid=1386834576
